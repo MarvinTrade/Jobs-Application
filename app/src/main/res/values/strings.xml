@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JOBS</string>
+    <string name="btn">Button</string>
+    <string name="get_user_name">Get Name</string>
+    <string name="the_user_name">The Name</string>
+    <string name="go_get_it">Go Get It</string>
+    <string name="user_name">My Name Is Marvin</string>
+    <string name="jobbtn2">Button</string>
+    <string name="todo">TODO</string>
+    <string name="jobbtn1">Button</string>
+    <string name="jobimg1">TODO</string>
+    <string name="fnametxt">First Name</string>
+    <string name="snametxt">Second Name</string>
+    <string name="malerdbtn">MALE</string>
+    <string name="femalerdbtn">FEMALE</string>
+    <string name="emailtxt">E-mail :</string>
+    <string name="retypepasswordtxt">Re-type Password :</string>
+    <string name="passwordtxt">Password :</string>
+    <string name="agenum">Age :</string>
+</resources>
